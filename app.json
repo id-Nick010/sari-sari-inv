@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "sari-sari-inv",
-    "slug": "sari-sari-inv",
+    "name": "sari-sari-ims",
+    "slug": "sari-sari-ims",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "sarisariinv",
+    "scheme": "sarisariims",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
