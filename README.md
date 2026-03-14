@@ -1,4 +1,41 @@
-### Welcome to your Expo app 👋
+# Sari-Sari IMS
+
+Sari-Sari IMS is an inventory management system designed to help small neighborhood stores manage their products, stock levels, and sales efficiently.
+
+- Sari-sari stores are a common convenience store type in the Philippines and play an important role in local communities and small-scale commerce.
+- This project aims to simplify inventory tracking and store operations by providing an intuitive digital system tailored for small store owners.
+
+## Sari-Sari IMS helps store owners:
+
+- Track product inventory in real time
+- Monitor stock levels and availability
+- Manage product listings and categories
+- Record transactions and sales activity
+- Reduce manual tracking errors
+- The system focuses on usability and efficiency, making it accessible even for small store owners who rely on simple inventory workflows.
+
+## Key Features
+
+- 📦 Product inventory management
+- 📊 Stock monitoring and updates
+- 🧾 Transaction and sales tracking
+- 🔎 Easy product search and organization
+- 📱 User-friendly interface designed for quick store operations
+
+## Goal of the Project
+
+The goal of Sari-Sari IMS is to digitize inventory management for small local stores, helping owners reduce manual tracking, improve stock visibility, and make daily store operations more efficient.
+
+## Case Study
+
+Design process, research, and UI/UX exploration can be viewed here:
+[Sari-Sari IMS: Behance](https://www.behance.net/gallery/233262587/Sari-Sari-IMS%E2%81%A0%EF%BF%BDhttps://www.behance.net/gallery/233262587/Sari-Sari-IMS%E2%81%A0%EF%BF%BDhttps://www.behance.net/gallery/233262587/Sari-Sari-IMS%E2%81%A0%EF%BF%BD)
+
+---
+
+---
+
+### This is an Expo app
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
@@ -24,16 +61,6 @@ In the output, you'll find options to open the app in a
 - [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
 You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-#### Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
 
 #### Learn more
 
