@@ -3,7 +3,7 @@
     "name": "sari-sari-ims",
     "slug": "sari-sari-ims",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "landscape",
     "icon": "./assets/images/icon.png",
     "scheme": "sarisariims",
     "userInterfaceStyle": "automatic",
